@@ -246,7 +246,7 @@ p{
 }
 
 .contact-box {
-	width: 50%;
+	width: 80%;
 	background-color: yellow;
 	border: 2px;
 	color: black;
@@ -254,7 +254,7 @@ p{
 }
 
 .contact-links {
-	width: 50%;
+	width: 80%;
 	background-color: green;
     text-align: center;
 	top:50px;
